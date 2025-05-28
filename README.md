@@ -15,7 +15,7 @@ Este bot compra acciones automáticamente cuando bajan un 2% desde el precio act
 ## 🚀 Instalación
 
 ```bash
-git clone https://github.com/tu_usuario/trading-bot-apalancado.git
+git clone https://github.com/antonioda2004/trading-bot-apalancado.git
 cd trading-bot-apalancado
 pip install -r requirements.txt
 ````
